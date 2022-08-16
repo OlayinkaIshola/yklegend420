@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+.Cafe{
+     background-image: url(/hero.jpg);
+     background-size: cover;
+     height: 800px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background-repeat: no-repeat;
+}
+.Cafe > img{
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: black;
+    width: 70px;
+    border-radius: 33px;
+    text-align: left;
+}
+.about{
+    justify-content: space-around;
+    text-align: right;
+    margin: 0px 10px 0px 0px;
+}
+div > a{
+    text-decoration: none;
+    color: rgb(132, 109, 109);
+}
+.main-head{
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 200px;
+    color: white;
+    font-size: 30px;
+}
+button{
+    width: 155px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid orange;
+    color: orange;
+    background-color: black;
+}
+.selected{
+    color: white;
+    background-color: orange;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.sub-head{
+    text-align: center;
+    font-size: 35px;
+    color: orange;
+}
+svg{
+    height: 30px;
+}
+.svg{
+    text-align: center;
+    margin: 20px auto;
+    
+}
+.info{
+    line-height: 30px;
+}
+.sub-page{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 30px;
+    color: orange;
+}
+#sub-page{
+    text-align: center;
+}
+img{
+    width: 410px;
+    height: 200px;
+}
+.image{
+    display: flex;
+}
+.iphone{
+    width: 290px;
+    height: 530px;
+    margin: 10px auto;
+    max-width: 100%;
+}
+.sample{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 35px;
+    padding-top: 10px;
+}
+.works{
+    font-size: 40px;
+    margin: 25px auto 10px auto;
+}
+hr{
+    width: 60px;
+    height: 0.1px;
+    background-color: orange;
+    border: 1px solid orange;
+}
+#display{
+    display: flex;
+    justify-content: center;
+    line-height: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: 35px;
+}
+ol{
+    font-size: 30px;
+}
+.app{
+    height: 47px;
+    width: 150px;
+}
+#main-svg{
+    height: 100px;
+}
+.footer{
+    background-color: white;
+}
+.lisbon, .london, .san-francisco, .berlin{
+    display: block;
+    
+}
+.link{
+    color: orange;
+}
+.lisbon1{
+    display: block;
+    padding: 18px;
+    margin: 10px auto;
+    line-height: 35px;
+}
+.countries{
+    display: flex;
+}
