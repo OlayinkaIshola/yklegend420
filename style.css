@@ -65,7 +65,7 @@ svg{
 }
 .sub-page{
     display: inline-block;
-    margin-left: 30px;
+    margin-left: 20px;
     font-size: 27px;
     color: black;
 }
@@ -136,4 +136,9 @@ ol{
 }
 .countries{
     display: flex;
+}
+#sub-head{
+    text-align: center;
+    font-size: 20px;
+    color: black;
 }
