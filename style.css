@@ -50,7 +50,7 @@ button{
 .sub-head{
     text-align: center;
     font-size: 35px;
-    color: orange;
+    color: black;
 }
 svg{
     height: 30px;
@@ -66,8 +66,8 @@ svg{
 .sub-page{
     display: inline-block;
     margin-left: 30px;
-    font-size: 30px;
-    color: orange;
+    font-size: 27px;
+    color: black';
 }
 #sub-page{
     text-align: center;
@@ -124,7 +124,6 @@ ol{
 }
 .lisbon, .london, .san-francisco, .berlin{
     display: block;
-    
 }
 .link{
     color: orange;
