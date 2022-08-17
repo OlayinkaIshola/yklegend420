@@ -51,6 +51,7 @@ button{
     text-align: center;
     font-size: 35px;
     color: black;
+    margin-bottom: 15px;
 }
 svg{
     height: 30px;
@@ -139,6 +140,7 @@ ol{
 }
 #sub-head{
     text-align: center;
-    font-size: 20px;
+    font-size: 23px;
     color: black;
+    margin-top: 15px;
 }
