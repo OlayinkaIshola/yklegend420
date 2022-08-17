@@ -61,12 +61,12 @@ svg{
     
 }
 .info{
-    line-height: 30px;
+    line-height: 40px;
 }
 .sub-page{
     display: inline-block;
     margin-left: 20px;
-    font-size: 27px;
+    font-size: 23px;
     color: black;
 }
 #sub-page{
