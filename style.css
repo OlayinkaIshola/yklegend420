@@ -2,7 +2,7 @@ body{
     background-color: rgb(240, 240, 240);
 }
 .Cafe{
-     background-image: url(/hero.jpg);
+     background-image: url(./hero.jpg);
      background-size: cover;
      height: 800px;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
